@@ -104,7 +104,6 @@
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" />
   <project path="device/samsung/qcom/common" name="LineageOS/android_device_samsung_qcom_common" />
   <!--jfltexx stuff-->
-  <project path="device/samsung/jfltexx" name="LineageOS/android_device_samsung_jfltexx" />
   
   <!--Blobs-->
   <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung" />
