@@ -102,7 +102,7 @@
   <!--jflte common stuff-->
   <project path="device/samsung/jf-common" name="LineageOS/android_device_samsung_jf-common" />
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" />
   <!--jfltexx stuff-->
   <project path="device/samsung/jfltexx" name="LineageOS/android_device_samsung_jfltexx" />
   
