@@ -107,6 +107,6 @@
   <project path="device/samsung/jfltexx" name="LineageOS/android_device_samsung_jfltexx" />
   
   <!--Blobs-->
-  <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung />
+  <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung" />
   
 </manifest>
