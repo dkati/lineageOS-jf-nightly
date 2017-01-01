@@ -100,12 +100,12 @@
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" />
   
   <!--jflte common stuff-->
-  <project path="device/samsung/jf-common" name="LineageOS/android_device_samsung_jf-common" />
+  <project path="device/samsung/jf-common" name="dkati/android_device_samsung_jf-common" />
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" />
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" />
   <!--jfltexx stuff-->
-  <project path="device/samsung/jfltexx" name="LineageOS/android_device_samsung_jfltexx" />
+  <project path="device/samsung/jfltexx" name="dkati/android_device_samsung_jfltexx" />
   
   
   <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung" />
