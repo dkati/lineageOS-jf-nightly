@@ -105,12 +105,13 @@
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" />
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
+  <project path="external/stlport" name="LineageOS/android_external_stlport" />
   <!--jfltexx stuff-->
   <project path="device/samsung/jfltexx" name="dkati/android_device_samsung_jfltexx" />
   <!--hardware-->
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
   <!--blobs-->
   <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung" />
-  <project path="external/stlport" name="LineageOS/android_external_stlport" />
+  
   
 </manifest>
