@@ -107,11 +107,10 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
   <project path="external/stlport" name="LineageOS/android_external_stlport" />
   <!--jfltexx stuff-->
-  <project path="device/samsung/jfltexx" name="dkati/android_device_samsung_jfltexx" />
+  <project path="device/samsung/jfltexx" name="LineageOS/android_device_samsung_jfltexx" />
   <!--hardware-->
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
-  <!--blobs-->
-  <project path="vendor/samsung" name="dkati/proprietary_vendor_samsung" />
+  
   
   
 </manifest>
